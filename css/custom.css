@@ -1,0 +1,16 @@
+
+body{
+    font-family: 'Varela Round', sans-serif;
+}
+
+
+/* Navbar */
+
+.bg-dark {
+    background-color: #1E8C01!important;
+}
+
+.navbar-brand{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
