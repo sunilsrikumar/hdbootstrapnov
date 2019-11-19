@@ -14,3 +14,16 @@ body{
     text-transform: uppercase;
     letter-spacing: 1px;
 }
+
+/* Tagline */
+
+.tagline{
+    padding-top: 20px;
+}
+
+.btn-success {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #28a745;
+    text-transform: uppercase;
+}
